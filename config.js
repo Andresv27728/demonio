@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url'
 
 global.owner = [
   ['573133374132', '💖💝 Y⃟o⃟ S⃟o⃟y⃟ Y⃟o⃟ 💝 💖 ', true],
-  ['50493732693', 'Ado', true],
+  ['524571061982', 'admin op', true],
 ]
 
 
@@ -16,17 +16,17 @@ global.libreria = 'Baileys'
 global.baileys = 'V 6.7.16' 
 global.vs = '2.2.0'
 global.nameqr = 'YuriBotMD'
-global.namebot ='Gawr Gura'
+global.namebot ='DEMONIO'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.yukiJadibts = true
 
-global.packname = 'Gawr Gura'
-global.namebot = 'Gawr Gura'
-global.author = '💖💝 Y⃟o⃟ S⃟o⃟y⃟ Y⃟o⃟ 💝 💖 '
+global.packname = 'DEMONIO'
+global.namebot = 'DEMONIO'
+global.author = 'DEMONIO'
 
 
-global.namecanal = 'Gawr Gura'
+global.namecanal = 'toca aca'
 global.canal = 'https://whatsapp.com/channel/0029VbAmMiM96H4KgBHZUn1z'
 global.idcanal = '120363399729727124@newsletter'
 
