@@ -35,7 +35,7 @@ const defaultMenu = {
   header: '\n> *✿ ❝ %category ❞*',
   body: '\n> ☄︎ %cmd %islimit %isPremium',
   footer: '',
-  after: '\n> ⋆power by Harold',
+  after: '\n> ⋆power by demonio',
 }
 
 const handler = async (m, { conn, usedPrefix: _p }) => {
@@ -74,7 +74,7 @@ const handler = async (m, { conn, usedPrefix: _p }) => {
       }
     }
 
-    const tipo = botActual === '+50764735869'.replace(/\D/g, '')
+    const tipo = botActual === '+524571061982'.replace(/\D/g, '')
       ? 'Principal 🅥'
       : 'Sub Bot 🅑'
 
