@@ -11,7 +11,7 @@ ${usedPrefix + command} canción relajante
 
   await m.react('🕒')
 
-  const imgPath = './storage/img/menu.jpg'
+  const imgPath = 'https://files.catbox.moe/tr0lls.jpg'
 
   try {
     const { data } = await axios.get(`https://api.starlights.uk/api/search/youtube?q=${encodeURIComponent(text)}`)

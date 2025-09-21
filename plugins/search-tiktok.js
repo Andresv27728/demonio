@@ -11,7 +11,7 @@ ${usedPrefix + command} baile divertido
 
   await m.react('🕓')
 
-  let img = './storage/img/menu.jpg'
+  let img = 'https://files.catbox.moe/tr0lls.jpg'
 
   try {
     const { data } = await axios.get(`https://apis-starlights-team.koyeb.app/starlight/tiktoksearch?text=${encodeURIComponent(text)}`)
